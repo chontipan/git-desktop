@@ -1,4 +1,3 @@
 v2 by pepe
 this line is from new_feature branch
 this line is from new_feature branch version 2
-this line is from new_feature branch version x
